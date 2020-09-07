@@ -8,19 +8,31 @@
   },
   "dependencies": {
     "@vue/cli": "^4.5.4",
+    "bootstrap-vue": "^2.1.0",
     "vue": "^2.6.11",
     "vue-router": "^3.2.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-router": "~4.5.0",
     "@vue/cli-service": "~4.5.0",
+    "babel-loader": "^8.1.0",
+    "bootstrap": "^4.3.1",
+    "coffee-loader": "^0.9.0",
+    "coffeescript": "^2.3.2",
+    "popper.js": "^1.16.0",
+    "portal-vue": "^2.1.6",
+    "sass": "^1.19.0",
+    "sass-loader": "^8.0.0",
+    "stylus": "^0.54.8",
+    "stylus-loader": "^3.0.2",
+    "vue-cli-plugin-bootstrap-vue": "~0.6.0",
+    "vue-cli-plugin-coffeescript": "~0.0.3",
+    "vue-cli-plugin-pug": "~1.0.7",
     "vue-template-compiler": "^2.6.11"
   },
   "browserslist": [
     "> 1%",
     "last 2 versions",
     "not dead"
-  ],
-  "_id": "@",
-  "readme": "ERROR: No README data found!"
+  ]
 }
